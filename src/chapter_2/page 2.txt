@@ -1,0 +1,22 @@
+
+Chapter 2
+
+page 2
+
+Here are some interesting facts about Java:
+
+The initial name of java was “Oak”. It was changed to Java by Sun’s marketing department changed it to “java” when they found that name was already registered for some computer company.
+Java was made by an accident. Around 1992, James Gosling was working at the Sun Labs. He and his team at that time were building a set-top box and which is started by “cleaning up” the C++ and they all wound up with a new language called Java or Oak.
+
+Java is the second most popular language and is very popular among the developers.
+
+Java is free from the concept of Pointer as adding pointers to Java language would compromise security and the robustness, making this language more complex.
+
+In Java, The meaning of Final keyword is not final. It has different meanings in java. It can be Final class, Final method, Final field or Final variable.
+
+Java is used by 95% of the enterprises as their primary language. It is much more than C and the other languages.
+
+In one year Java gets downloaded one billion times.
+A Java developer’s median salary is $83, 975.00. It pays to be a Java developer.
+Today, Java rationally runs on more than 1 billion as the Android operating system of Google uses Java APIs.
+The main technology site of Sun is java.sun.com. The name of Collaborative site which is run by Sun is java.net. A news site which is run by Sun is java.com. If you want to know about Java programs related news, just log on to the www.javaworld.com.
