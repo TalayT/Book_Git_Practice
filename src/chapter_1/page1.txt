@@ -1,0 +1,26 @@
+
+This is the first page fo chapter 1
+
+his is our book
+
+whole name: page1.txt
+
+Created a new project
+Created a new package called chapter_1
+Created a new text file called page1
+
+first day of GIT class
+
+Today is September 26th, 2021
+Sunday
+
+Hello World!!!
+My name is Talay T. I'm studying Java
+Java is fun
+
+Git - is a version control system
+It is local software installed on my computer for
+keeping track or change for files amd folders
+
+Github.com - is an online hosting platform for git
+repositories with lots of collaboration features

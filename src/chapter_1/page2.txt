@@ -1,0 +1,14 @@
+
+Git class
+
+page 2 of chapter 1
+
+second file
+
+Git - is a version control system
+It is local software installed on my computer for
+keeping track or change for files amd folders
+
+Repository - folder that git keeps track of changes
+- local: repository on my computer (hidden .git folder)
+- remote: repository in -> [GitHub.com](http://github.com)
