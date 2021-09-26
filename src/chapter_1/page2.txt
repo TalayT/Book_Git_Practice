@@ -16,6 +16,9 @@ Repository - folder that git keeps track of changes
 
 GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over a million people use GitHub to build amazing things together.
 
+with this adding some more text
+about GitHub
+
 Company
 
 GitHub was founded in April, 2008
