@@ -12,3 +12,14 @@ keeping track or change for files amd folders
 Repository - folder that git keeps track of changes
 - local: repository on my computer (hidden .git folder)
 - remote: repository in -> [GitHub.com](http://github.com)
+
+
+GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over a million people use GitHub to build amazing things together.
+
+Company
+
+GitHub was founded in April, 2008
+GitHub HQ is in San Francisco
+Founders: Tom Preston-Werner, Chris Wanstrath, and PJ Hyett
+Employees: 95 (see https://github.com/about for a current number)
+Approximately half of the GitHub team works remotely
