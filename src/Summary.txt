@@ -2,4 +2,4 @@ this is the sumary page
 
 putting new lines
 
-we will pul/update
+we will pull / update
